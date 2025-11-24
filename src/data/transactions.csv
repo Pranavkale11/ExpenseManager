@@ -1,3 +1,5 @@
 id,date,type,amount,category,note
 1,2005-11-11,EXPENSE,10000.0,kuch bhi,kuch nhi
 2,2005-11-11,INCOME,100.0,Salaray,eared today
+3,2025-11-24,INCOME,1000.0,Salary,Aj ke salary
+4,2025-11-24,EXPENSE,200.0,Food,Lunch ka amount
